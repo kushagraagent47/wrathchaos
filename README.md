@@ -1,8 +1,15 @@
 ### Hi there 👋 
 
-[![FreakyCoder Github Visitors](https://badges.pufler.dev/visits/wrathchaos/wrathchaos?style=for-the-badge&color=eb1b0c)](https://freakycoder.com)
 
-[![FreakyCoder Monthly Commits](https://badges.pufler.dev/commits/monthly/wrathchaos?style=for-the-badge&color=eb1b0c)](https://freakycoder.com)
+<p>
+  <a>
+    [![FreakyCoder Github Visitors](https://badges.pufler.dev/visits/wrathchaos/wrathchaos?style=for-the-badge&color=eb1b0c)](https://freakycoder.com)
+  </a>
+  <a>
+    [![FreakyCoder Monthly Commits](https://badges.pufler.dev/commits/monthly/wrathchaos?style=for-the-badge&color=eb1b0c)](https://freakycoder.com)
+  </a>
+ </table>
+
 
 [![FreakyCoder Github Streaks](https://github-readme-streak-stats.herokuapp.com/?user=wrathchaos&fire=eb1b0c&ring=eb1b0c&currStreakLabel=eb1b0c)](https://freakycoder.com)
 
