@@ -3,6 +3,8 @@
 
 ![FreakyCoder Github Streaks](https://github-readme-streak-stats.herokuapp.com/?user=wrathchaos&hide_border=true)
 
+![FreakyCoder Github Visitors](https://visitor-badge.glitch.me/badge?page_id=wrathchaos.wrathchaos&style=for-the-badge&color=0088cc)
+
 <!--
 **WrathChaos/wrathchaos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
