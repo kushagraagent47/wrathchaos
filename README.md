@@ -1,4 +1,4 @@
-### Hi there 👋 
+### Hi there [](./wave.gif)
 
 
 [![FreakyCoder Github Visitors](https://badges.pufler.dev/visits/wrathchaos/wrathchaos?style=for-the-badge&color=eb1b0c)](https://freakycoder.com)
